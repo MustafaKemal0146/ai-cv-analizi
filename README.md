@@ -43,7 +43,7 @@ Hem bulut tabanlı **Google Gemini** hem de tamamen yerel ve gizlilik odaklı **
 *   **CV Önizleme:** Uygulama içinden CV'leri görüntüleme imkanı.
 
 <div align="center">
-<img src="/images/ollama.png" alt="Ollama Desteği" width="800" />
+<img src="/images/ollama.png" alt="Ollama Desteği" width="200" />
 <p><em>Yerel AI modelleri ile tam gizlilik</em></p>
 </div>
 
@@ -72,7 +72,7 @@ python -m streamlit run app.py
 ```
 
 <div align="center">
-<img src="/images/cv-ekleme.png" alt="CV Ekleme" width="800" />
+<img src="/images/cv-ekleme.png" alt="CV Ekleme" width="200" />
 <p><em>Klasör bazlı otomatik CV tarama sistemi</em></p>
 </div>
 
