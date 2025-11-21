@@ -25,6 +25,11 @@ Bu proje, işe alım süreçlerini hızlandırmak ve daha objektif değerlendirm
 
 Hem bulut tabanlı **Google Gemini** hem de tamamen yerel ve gizlilik odaklı **Ollama** modellerini destekler.
 
+<div align="center">
+<img src="/images/arayuz.png" alt="Ana Arayüz" width="800" />
+<p><em>Modern ve kullanıcı dostu arayüz</em></p>
+</div>
+
 ---
 
 ## ✨ Özellikler
@@ -36,6 +41,11 @@ Hem bulut tabanlı **Google Gemini** hem de tamamen yerel ve gizlilik odaklı **
 *   **Akıllı Sıralama:** En uygun adayları otomatik olarak en üste taşır.
 *   **Kolay Kullanım:** Sürükle-bırak gerektirmeyen, klasör bazlı otomatik tarama sistemi.
 *   **CV Önizleme:** Uygulama içinden CV'leri görüntüleme imkanı.
+
+<div align="center">
+<img src="/images/ollama.png" alt="Ollama Desteği" width="800" />
+<p><em>Yerel AI modelleri ile tam gizlilik</em></p>
+</div>
 
 ---
 
@@ -61,6 +71,11 @@ pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 
+<div align="center">
+<img src="/images/cv-ekleme.png" alt="CV Ekleme" width="800" />
+<p><em>Klasör bazlı otomatik CV tarama sistemi</em></p>
+</div>
+
 ---
 
 ## 📖 Kullanım Rehberi
@@ -79,6 +94,11 @@ python -m streamlit run app.py
 3.  Listeden kullanmak istediğiniz modeli seçin (örn: `llama3`).
 4.  Analizi başlatın! (API anahtarı gerekmez).
 
+<div align="center">
+<img src="/images/cv-analiz.png" alt="CV Analiz Sonuçları" width="800" />
+<p><em>Detaylı analiz ve akıllı sıralama</em></p>
+</div>
+
 ---
 
 ## 👤 Geliştirici
@@ -95,3 +115,4 @@ python -m streamlit run app.py
 
 ## 📝 Lisans
 Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakınız.
+
