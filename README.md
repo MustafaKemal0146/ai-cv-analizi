@@ -107,7 +107,9 @@ python -m streamlit run app.py
 
 **Mustafa Kemal Çıngıl**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafakemalcingil/)
 [![GitHub](https://img.shields.io/badge/GitHub-MustafaKemal0146-181717?style=for-the-badge&logo=github)](https://github.com/MustafaKemal0146)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Profile-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/mustafakemal0146)
 
 </div>
 
